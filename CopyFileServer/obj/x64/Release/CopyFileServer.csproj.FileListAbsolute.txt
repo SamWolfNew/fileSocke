@@ -1,0 +1,13 @@
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\CopyFileServer.exe.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\log4net.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\CopyFileServer.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\Base.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\DBUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\SocketUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\x64\Release\SocketUtil.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\x64\Release\CopyFileServer.frmMain.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\x64\Release\CopyFileServer.Properties.Resources.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\x64\Release\CopyFileServer.csproj.GenerateResource.Cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\x64\Release\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\x64\Release\CopyFileServer.pdb

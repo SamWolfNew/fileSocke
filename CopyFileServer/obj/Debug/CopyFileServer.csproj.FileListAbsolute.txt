@@ -1,0 +1,49 @@
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.exe.config
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\log4net.config
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.exe
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.pdb
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\Base.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\DBUtil.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\log4net.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\SocketUtil.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Debug\SocketUtil.pdb
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.frmMain.resources
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.Properties.Resources.resources
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csproj.GenerateResource.Cache
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.exe
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.exe.config
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.exe
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\log4net.config
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.exe
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\Base.dll
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\DBUtil.dll
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\log4net.dll
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\SocketUtil.dll
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\bin\Debug\SocketUtil.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.frmMain.resources
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.Properties.Resources.resources
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csproj.GenerateResource.Cache
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\debug\CopyFileServer.exe.config
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\debug\log4net.config
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\debug\CopyFileServer.exe
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\debug\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csprojResolveAssemblyReference.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\log4net.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\CopyFileServer.exe.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\CopyFileServer.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\log4net.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.frmMain.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.Properties.Resources.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csproj.GenerateResource.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csproj.CoreCompileInputs.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csproj.CopyComplete
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\Base.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\DBUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\debug\SocketUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Debug\CopyFileServer.csprojAssemblyReference.cache

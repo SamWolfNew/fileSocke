@@ -1,0 +1,44 @@
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\CopyFileServer.exe.config
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\log4net.config
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\CopyFileServer.exe
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\CopyFileServer.pdb
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\Base.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\DBUtil.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\log4net.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\SocketUtil.dll
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\bin\Release\SocketUtil.pdb
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csprojResolveAssemblyReference.cache
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.frmMain.resources
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.Properties.Resources.resources
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csproj.GenerateResource.Cache
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.exe
+c:\users\xuyinghuai\documents\visual studio 2015\Projects\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\Release\CopyFileServer.exe.config
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.exe
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\Release\log4net.config
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\Release\CopyFileServer.exe
+C:\Users\xuyinghuai\Desktop\MES\copyFileServer\Release\CopyFileServer.pdb
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.frmMain.resources
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.Properties.Resources.resources
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csproj.GenerateResource.Cache
+C:\Users\xuyinghuai\Desktop\MES\AEmes\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csprojResolveAssemblyReference.cache
+E:\SVN项目管理\Develop\copyFileServer\Release\CopyFileServer.exe.config
+E:\SVN项目管理\Develop\copyFileServer\Release\log4net.config
+E:\SVN项目管理\Develop\copyFileServer\Release\CopyFileServer.exe
+E:\SVN项目管理\Develop\copyFileServer\Release\CopyFileServer.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\log4net.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\CopyFileServer.exe.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\CopyFileServer.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\Base.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\DBUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\log4net.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\bin\release\SocketUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.frmMain.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.Properties.Resources.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csproj.GenerateResource.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csproj.CoreCompileInputs.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.csproj.CopyComplete
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileServer\obj\Release\CopyFileServer.pdb

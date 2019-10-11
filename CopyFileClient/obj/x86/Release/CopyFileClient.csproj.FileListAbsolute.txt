@@ -1,0 +1,14 @@
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\log4net.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\CopyFileClient.exe.config
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\CopyFileClient.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\CopyFileClient.pdb
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\Base.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\DBUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\bin\x86\Release\SocketUtil.dll
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.CopyFileClient.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.Properties.Resources.resources
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.csproj.GenerateResource.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.csproj.CoreCompileInputs.cache
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.csproj.CopyComplete
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.exe
+E:\SVN项目管理\Develop\MES\CopyFileServer\CopyFileClient\obj\x86\Release\CopyFileClient.pdb
